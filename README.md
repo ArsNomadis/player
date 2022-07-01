@@ -45,7 +45,7 @@ For the scanning of the SD-card you will have to install these libraries, it wil
 #include <ArduinoJson.h>
 ```
 
-Finally, an important audio library alternative is this one :
+Finally, an important audio library alternative is this one, it can be found on [GitHub](https://github.com/FrankBoesing/Teensy-WavePlayer).
 
 ```c
 #include <play_wav.h>
