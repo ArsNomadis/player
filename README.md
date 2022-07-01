@@ -13,6 +13,7 @@ For this project we're using a teensy 4.0 which can be found [here](https://www.
 
 The Teensy microcontroller :
 ![Teensy](https://www.pjrc.com/store/teensy40_front.jpg)
+
 The specific audio shield :
 ![audio shield](https://www.pjrc.com/store/teensy3_audio.jpg)
 
