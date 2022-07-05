@@ -179,7 +179,7 @@ void loop()
   // This sketch displays information every time a new sentence is correctly encoded.
   while (gpsSerial.available() > 0){
     if (gps.encode(gpsSerial.read()))
-      displayInfo();
+      getPosition();
       
 
     //Ars Nomadis Latitude : 48.107255 Longitude: -1.652680
