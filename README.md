@@ -58,3 +58,31 @@ Please make sure to update tests as appropriate.
 
 ## License
 [Ars Nomadis](https://www.arsnomadis.eu/)
+
+
+# Augmented sound walk - Project description
+
+## A sound experimentation on the site of the CHGR and the Bois Perrin in Rennes.
+
+The project "Promenade Sonore Augmentée" (provisional title) is an experimentation around the creation of immersive and geolocalized sound walks in the public space. It brings together 7 partners with complementary skills in content creation, audio technologies and cultural mediation.
+
+## A technical innovation
+
+In order to increase the sound experience of the listeners, we wish to develop a prototype proposing a 3D sound in binaural format and allowing the contents to evolve according to the geographical position of the walker. This sound walk will be able to adapt automatically to the walker's rhythm, without any intervention from the listener, with a system reproducing the functioning of the auditory system, able to determine the distance, the angular position and the direction of the sounds listened to.
+
+The project will attempt to explore the concepts of interactive narration and sound creation in public space. The challenge is to develop a technological solution that is easy to access, does not require any complex equipment, and allows for true immersion.
+
+## Where and when?
+
+The project will be tested in 2021/2022 on the site of Bois Perrin in Rennes and the Centre Hospitalier Guillaume Regnier (CHGR). The Bois Perrin is a remarkable site with many trees, and until now it has been home to the child and adolescent psychiatry departments of the CHGR. We will associate employees and patients of the psychiatric and child psychiatric center Guillaume Regnier, as well as inhabitants willing to participate in this sound creation.
+
+## 7 partners
+
+Supported by Ars Nomadis, this project also associates 6 other partners to develop an adapted digital solution and to think about new uses in terms of communication and mediation:
+
+* Noise Makers, a Rennes-based company specialized in 3D audio technologies.
+* EUR-CAPS, University School of Research - Creative Approaches to Public Space.
+* Digital Campus Rennes, Web and Digital school
+* ESRA, School of Audiovisual Production.
+* IRISA-CNRS, Institute of Research in Computer Science and Random Systems, PANAMA laboratory.
+* Marine Frugès, graphic design.
