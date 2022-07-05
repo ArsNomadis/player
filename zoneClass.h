@@ -28,7 +28,3 @@ class Point {
       this->looping = looping;
     }
 };
-
-
-//List of all created points
-LinkedList<Point*> listePoints = LinkedList<Point*>();
