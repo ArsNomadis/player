@@ -1,5 +1,5 @@
 //Function for parsing of incoming GPS data
-void displayInfo(void)
+void getPosition(void)
 {
   if (gps.location.isValid())
   {
